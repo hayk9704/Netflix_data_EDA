@@ -27,4 +27,4 @@ Everything is reproducible and version-controlled.
 - **Phase 2 — Mini-Projects (End-to-End)**
   - Pick a raw dataset, define a question, and ship a small, complete pipeline:
     - Raw → Clean → Transform → Export → EDA report (notebook/markdown)
-    - One new wrinkle each time (APIs, messy text, geodata, time series, joins, etc.)
+    - Different data types each time (APIs, messy text, time series, etc.)
