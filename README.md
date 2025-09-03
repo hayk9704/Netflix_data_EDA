@@ -3,8 +3,6 @@
 **Goal:** become fluent in **data-wrangling** and **exploratory data analysis (EDA)** through a sequence of replications and mini-projects.  
 **Stack:** Python • SQL • JupyterLab
 
----
-
 ## Overview
 
 This repo is my hands-on journey to master data cleaning, transformation, validation, and exploratory analysis. I start by **replicating published processes** to learn best practices, then build **small end-to-end projects** where I:
@@ -17,7 +15,6 @@ This repo is my hands-on journey to master data cleaning, transformation, valida
 
 Everything is reproducible and version-controlled.
 
----
 
 ## Learning Path
 
