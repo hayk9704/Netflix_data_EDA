@@ -1,30 +1,19 @@
-# Mastering Data-Wrangling & EDA
+# Netflix Content: An Exploratory Data Analysis
 
-**Goal:** become fluent in **data-wrangling** and **exploratory data analysis (EDA)** through a sequence of replications and mini-projects.  
+**Goal:** To perform an exploratory data analysis (EDA) on the Netflix Movies and TV Shows dataset to extract meaningful patterns and insights about its content.
 **Stack:** Python • SQL • JupyterLab
 
-## Overview
+## Process
 
-This repo is my hands-on journey to master data cleaning, transformation, validation, and exploratory analysis. I start by **replicating published processes** to learn best practices, then build **small end-to-end projects** where I:
+This analysis involves a complete data wrangling and exploration workflow on the specified dataset. My process includes the following steps:
 
-1) **Ingest** raw data (CSV/JSON/Excel/SQL/API)  
-2) **Clean** (types, missing, duplicates, text/date parsing, de-noising)  
-3) **Transform** (reshape, join, encode, validate) for the task at hand  
-4) **Export** a tidy, documented dataset  
-5) **EDA** (visuals, summaries, diagnostics, simple baselines)
+1.  **Ingest:** Load the raw data from the provided CSV file.
+2.  **Clean:** Handle data types, missing values, duplicates, and parse text and date fields to ensure data quality.
+3.  **Transform:** Reshape, join, and encode data as needed to prepare it for analysis.
+4.  **Export:** Create a tidy, documented version of the dataset for reproducible analysis.
+5.  **Analyze & Visualize (EDA):** Generate visual and statistical summaries to identify trends, relationships, and answer questions about the content.
 
-Everything is reproducible and version-controlled.
+## Dataset
 
-
-## Learning Path
-
-- **Phase 1 — Replications (Foundations)**
-  - Recreate reputable cleaning & visualization workflows to absorb conventions.
-  - **Kickoff:** Netflix dataset cleaning + analysis + visualization  
-    Source: Kaggle — *“Netflix Data Cleaning, Analysis and Visualization”*  
-    Link: https://www.kaggle.com/datasets/ariyoomotade/netflix-data-cleaning-analysis-and-visualization
-
-- **Phase 2 — Mini-Projects (End-to-End)**
-  - Pick a raw dataset, define a question, and ship a small, complete pipeline:
-    - Raw → Clean → Transform → Export → EDA report (notebook/markdown)
-    - Different data types each time (APIs, messy text, time series, etc.)
+* **Source:** Kaggle — *“Netflix Movies and TV Shows”*
+* **Link:** [https://www.kaggle.com/datasets/shivamb/netflix-shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
