@@ -1,6 +1,6 @@
 # Netflix Content: An Exploratory Data Analysis
 
-**Goal:** To perform an exploratory data analysis (EDA) on the Netflix Movies and TV Shows dataset to extract meaningful patterns and insights about its content library.
+**Goal:** To perform an exploratory data analysis (EDA) on the Netflix Movies and TV Shows dataset to extract meaningful patterns and insights about its content.
 **Stack:** Python • SQL • JupyterLab
 
 ## Process
